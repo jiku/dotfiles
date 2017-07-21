@@ -1,3 +1,3 @@
-# jiku/macOS/dotfiles
+# jiku/dotfiles
 
-Setup for macOS.
+Software setup for various devices.
