@@ -5,9 +5,10 @@
     "private": true,
     "scripts": {
         "software:macos:software-update:start": "sudo softwareupdate -i -a",
-        "software:basics:add": "npm run software:bash:add && npm run software:oh-my-zsh!:add && npm run software:npm:ntl:add",
+        "software:basics:add": "npm run software:bash:add && npm run software:oh-my-zsh!:add && npm run software:git:add:settings && npm run software:npm:ntl:add",
         "software:bash:add": "sh ./software/bash/scripts/add",
         "software:oh-my-zsh!:add": "sh ./software/oh-my-zsh!/scripts/add",
+        "software:git:add:settings": "sh ./software/git/scripts/add-settings",
         "software:npm:ntl:add": "npm i -g ntl",
         "software:meteor:add": "sh ./software/meteor/scripts/add",
         "software:yarn:add": "brew install yarn",
