@@ -1,0 +1,5 @@
+#!/bin/bash
+./software/homebrew/scripts/add
+./software/node/scripts/add-brew-(npm)
+npm run basics:add
+ntl

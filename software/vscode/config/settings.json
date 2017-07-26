@@ -1,0 +1,24 @@
+{
+    "editor.tabSize": 2,
+    "editor.insertSpaces": false,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.renderWhitespace": "boundary",
+    "workbench.colorTheme": "Dracula Soft",
+    "gitProjectManager.baseProjectsFolders": [
+        "/Volumes/Data/Dev/Projects",
+        "/Volumes/Data/Dev/Lab",
+        "/Volumes/Data/Dev/Languages"
+    ],
+    "workbench.iconTheme": null,
+    "workspace": {
+        "file:///Volumes/Data/Dev/Languages/JavaScript/Stacks/Node/Packages/NPM/@jiku/nutrica/base": {
+            "folders": [
+                "file:///Volumes/Data/Dev/Languages/JavaScript/Stacks/Node/Packages/NPM/@jiku/nutrica/cli",
+                "file:///Volumes/Data/Dev/Languages/JavaScript/Stacks/Node/Packages/NPM/@jiku/nutrica/data/graphql-tutorial",
+                "file:///Volumes/Data/Dev/Languages/JavaScript/Stacks/Node/Packages/NPM/@jiku/nutrica/site"
+            ]
+        }
+    },
+    "git.confirmSync": false
+}

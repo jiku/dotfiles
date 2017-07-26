@@ -1,0 +1,11 @@
+#!/bin/bash
+code-insiders --install-extension dracula-theme.theme-dracula
+code-insiders --install-extension emmanuelbeziat.vscode-great-icons
+code-insiders --install-extension WallabyJs.quokka-vscode
+code-insiders --install-extension WallabyJs.wallaby-vscode
+code-insiders --install-extension msjsdiag.debugger-for-chrome
+code-insiders --install-extension donjayamanne.githistory
+code-insiders --install-extension eamodio.gitlens
+code-insiders --install-extension felipecaputo.git-project-manager
+code-insiders --install-extension stubailo.ignore-gitignore
+code-insiders --install-extension deerawan.vscode-hasher

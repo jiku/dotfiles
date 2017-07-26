@@ -1,0 +1,14 @@
+#!/bin/bash
+code --install-extension dracula-theme.theme-dracula
+code --install-extension emmanuelbeziat.vscode-great-icons
+
+code --install-extension WallabyJs.quokka-vscode
+code --install-extension WallabyJs.wallaby-vscode
+code --install-extension msjsdiag.debugger-for-chrome
+
+code --install-extension donjayamanne.githistory
+code --install-extension eamodio.gitlens
+code --install-extension felipecaputo.git-project-manager
+code --install-extension stubailo.ignore-gitignore
+
+code --install-extension deerawan.vscode-hasher

@@ -1,0 +1,2 @@
+#!/bin/bash
+brew install Caskroom/versions/google-chrome-canary
