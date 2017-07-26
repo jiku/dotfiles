@@ -1,0 +1,2 @@
+#!/bin/bash
+cat ./software/bash/config/.bash_profile >> ~/.bash_profile

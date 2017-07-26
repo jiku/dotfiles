@@ -5,7 +5,8 @@
     "private": true,
     "scripts": {
         "software:macos:software-update:start": "sudo softwareupdate -i -a",
-        "software:basics:add": "npm run oh-my-zsh!:add && npm run npm:ntl:add",
+        "software:basics:add": "npm run software:bash:add && npm run oh-my-zsh!:add && npm run npm:ntl:add",
+        "software:bash:add": "sh ./software/bash/scripts/add",
         "software:oh-my-zsh!:add": "sh ./software/oh-my-zsh!/scripts/add",
         "software:npm:ntl:add": "npm i -g ntl",
         "software:meteor:add": "sh ./software/meteor/scripts/add",
