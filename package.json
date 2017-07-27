@@ -12,7 +12,7 @@
         "software:npm:ntl:add": "npm i -g ntl",
         "software:meteor:add": "sh ./software/meteor/scripts/add",
         "software:yarn:add": "brew install yarn",
-        "software:vscode": "sh ./software/vscode/scripts/add",
+        "software:vscode:add": "sh ./software/vscode/scripts/add",
         "software:vscode:insiders:add:complete": "npm run software:vscode:insiders:add && npm run software:vscode:insiders:add:settings && npm run software:vscode:insiders:add:extensions",
         "software:vscode:insiders:add": "sh ./software/vscode-insiders/scripts/add",
         "software:vscode:insiders:add:settings": "sh ./software/vscode-insiders/scripts/add-settings",
