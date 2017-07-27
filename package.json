@@ -17,6 +17,7 @@
         "software:vscode:insiders:add": "sh ./software/vscode-insiders/scripts/add",
         "software:vscode:insiders:add:settings": "sh ./software/vscode-insiders/scripts/add-settings",
         "software:vscode:insiders:add:extensions": "sh ./software/vscode-insiders/scripts/add-extensions",
+        "software:tower:add": "sh ./software/tower/scripts/add",
         "fonts:add": "brew tap caskroom/fonts",
         "fonts:fira-code:add": "brew cask install font-fira-code"
     },
