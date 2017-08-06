@@ -9,6 +9,7 @@
         "software:bash:add": "sh ./software/bash/scripts/add",
         "software:oh-my-zsh!:add": "sh ./software/oh-my-zsh!/scripts/add",
         "software:git:add:settings": "sh ./software/git/scripts/add-settings",
+        "software:git-lfs:add": "sh ./software/git/scripts/add",
         "software:npm:ntl:add": "npm i -g ntl",
         "software:meteor:add": "sh ./software/meteor/scripts/add",
         "software:yarn:add": "brew install yarn",
