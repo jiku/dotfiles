@@ -25,6 +25,7 @@
         "software:tower:add": "sh ./software/tower/scripts/add",
         "software:forklift:add": "sh ./software/forklift/scripts/add",
         "software:quicklook:add:complete": "cd ./software/quicklook/scripts/ && ./add",
+        "software:firefox":  "cd ./software/firefox/scripts/ && ./add",
         "fonts:add": "brew tap caskroom/fonts",
         "fonts:fira-code:add": "brew cask install font-fira-code"
     },
