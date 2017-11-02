@@ -9,3 +9,6 @@ code-insiders --install-extension eamodio.gitlens
 code-insiders --install-extension felipecaputo.git-project-manager
 code-insiders --install-extension stubailo.ignore-gitignore
 code-insiders --install-extension deerawan.vscode-hasher
+code-insiders --install-extension PeterJausovec.vscode-docker
+code-insiders --install-extension formulahendry.docker-explorer
+code-insiders --install-extension formulahendry.docker-extension-pack
